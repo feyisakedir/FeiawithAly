@@ -6,3 +6,19 @@ p{
     color:blue;
     background-color: aqua;
 }
+img {
+    max-width: 50%;
+    display: block;
+    margin: 0 auto;
+    height: 50%;
+    
+  }
+  #image-feyisa {
+    padding: 15px;
+    background: white;
+    margin: 0;
+  }
+  #image-aly {
+    padding: 5px;
+    background: white;
+  }
